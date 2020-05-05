@@ -28,100 +28,54 @@ The plan of attack was to do the following:
 
 ***The Metrics:*** 
 
-***The Models Chosen:*** The baseline model . 
-
-***Logistic Regression:*** We tried using the encoders below as well as balacing the data by using the class_weight parameter. 
-
-***Gradient Boost & AdaBoost:***  These two methods fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest).
-
-***Encoders:*** To enhance our model we tried both OneHot and Target Encoding.
-  
-
+***The Models Chosen:*** 
+*The baseline model -  
 
 # Conclusion
 . 
 
 
 # Future Recommendations
-
-1. Build a model that is able to classify the *"low hanging fruit"* of the churn group. This way the telecommunication companies can focus on the customers who they **most certainly** can convince not to churn.  
-
-2. Conduct another analysis after collecting more data. We can then help telecommunication companies develop packedges that will save the customer money and decrease the number of churning customers. 
-
-3. Use Feature Importance on our model to remove  the variables that are hurting the results. 
+1.
 
 
 # Repository Guide
-
 ***Notebooks***
 
 Data Clean Up With Baseline Model: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/%20Customer_Churn_Baseline.ipynb
 
-Gradient Boost & AdaBoot: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/Gradient_Boost_AdaBoost.ipynb
-
-Logistic Regression With Encoding: 
-https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/Mod_3_Baseline_Log_Reg.ipynb
-
-Encoders On Random Forest Gradient Boost & AdaBoost: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/OneHot_Target_Encoders.ipynb
-
 ***CSV Files***
 
 Original Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Telecom_churn.csv
-
 Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Cleaned_Churn_Data.csv
 
 **Presentation**
 https://www.canva.com/design/DAD5FkbTvBA/EENajulaT4BcXTQAhPN3rQ/view?utm_content=DAD5FkbTvBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
-# Team Members 
-
-1. **Boi Moriba:**  https://github.com/bmor2552  
-
-2. **Takehiro Yasuoka:** https://github.com/Tyasuoka
-
-
 # Resources
 
 **The Data: Below is the direct link to our data source.**
-
-https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
-
-
-**The Metrics: The links below will contain documentation on ROC_AUC and Accuracy Scores.**
-  
-
-*ROC_AUC Score:*  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
- 
- 
-*Accuracy Score:* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html?highlight=accuracy#sklearn.metrics.accuracy_score
+https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
 
 **Models: Below you will find model documentation**
 
-
 *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-  
-  
+
 *Decision Tree:*  https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
-  
-  
+
 *Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
   
-  
 *Gradient Boost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
   
-  
 *AdaBoost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
   
  
- 
  # Human Resources 
-  
   
  Lindsey Berlin DS 02-17-2020 Coach
   
-  
  Bryan Arnold DS 02-17-2020 Lead Instructor
   
   
