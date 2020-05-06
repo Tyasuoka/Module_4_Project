@@ -6,11 +6,13 @@
 
 
 **The Goal:**
-  The focus of this project was . 
+  The focus of this project was study the behavioral patterns of those who got the vaccinations for the H1N1 virus and try to promote said behaviors to the generl public to follow. 
 
 
 **The Problem:**
-  Placeholder text
+  * Certain behavioral patterns are hard to enforce
+  * Not all people believe in the same thing
+  * Not all people are capable of following the recommendations
 
 
 **The Solution:**
