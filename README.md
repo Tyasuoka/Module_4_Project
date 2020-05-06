@@ -10,35 +10,46 @@
 
 
 **The Problem:**
+
   * Certain behavioral patterns are hard to enforce
   * Not all people believe in the same thing
   * Not all people are capable of following the recommendations
 
 
 **The Solution:**
-   Placeholder text
+
+  * Create a model that approximates likely behaviors of those who got the vaccinations
+  * Promote those behaviors so everyone will be safe from future outbreaks
+  * Prepaer for the next pandemic
 
 
 **The Process**
 
 The plan of attack was to do the following:
 1. Explore & Clean data 
-2. Transform data 
-3. Model the data
+2. Model the data
+3. Find the feature importances to list out to see which factors were the biggest contributors
 
-***The Data:*** The data was provided by the Driven data Competition under the title "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines".
+***The Data:*** 
+
+The data was provided by the Driven data Competition under the title "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines".
 
 ***The Metrics:*** 
 
+The main metric used was ROC_AUC scoring.
+
 ***The Models Chosen:*** 
-*The baseline model -  
+
+* The baseline model - Random Forest
+* Other models used - Gradient Boosting, Logistic Regression
 
 # Conclusion
-. 
-
+* The biggest feature importances were the opinions of the individual if the vaccine was effective or not. Some of the other high impacting features were if the individual had health insurance or not and if they had any good behaviors prior to the spread of the virus like washing their hands.
 
 # Future Recommendations
-1.
+1. Gather more data to further analyze behavioral patterns
+2. Apply feature engineering to improve model performance.
+3. Take a psychological approach and see if anything changes.
 
 
 # Repository Guide
@@ -73,11 +84,12 @@ https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 *AdaBoost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
   
  
- # Human Resources 
- My Last Data Bender Cohort 02/17/20 classmates 
+ # Human Resources
  
- Lindsey Berlin DS 02/17/20 Instructor
+ * My Last Data Bender Cohort 02/17/20 classmates 
+ 
+ * Lindsey Berlin DS 02/17/20 Instructor
   
- Bryan Arnold DS 002/17/20 Instructor
+ * Bryan Arnold DS 002/17/20 Instructor
   
   
