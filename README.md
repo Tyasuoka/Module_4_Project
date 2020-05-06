@@ -50,8 +50,9 @@ The main metric used was ROC_AUC scoring.
 
 
 # Repository Guide
+
 **Notebooks**
-*Data Clean Up With Baseline Model: https://github.com/Tyasuoka/Module_4_Project/blob/master/Jupyter%20Notebooks/Step2_Modeling.ipynb
+* Data Clean Up With Baseline Model: https://github.com/Tyasuoka/Module_4_Project/blob/master/Jupyter%20Notebooks/Step2_Modeling.ipynb
 
 **CSV Files**
 * Original Data: https://github.com/Tyasuoka/Module_4_Project/blob/master/CSVs/training_set_features.csv
