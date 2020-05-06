@@ -82,7 +82,7 @@ https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
   
  
  # Human Resources
- * My Last Data Bender Cohort 02/17/20 classmates
+ * My Last Data Bender Cohort 02/17/20 classmates
  * Lindsey Berlin DS 02/17/20 Instructor 
  * Bryan Arnold DS 002/17/20 Instructor
   
