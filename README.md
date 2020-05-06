@@ -42,16 +42,15 @@ The plan of attack was to do the following:
 # Repository Guide
 ***Notebooks***
 
-Data Clean Up With Baseline Model: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/%20Customer_Churn_Baseline.ipynb
+Data Clean Up With Baseline Model: 
 
 ***CSV Files***
 
-Original Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Telecom_churn.csv
-Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Cleaned_Churn_Data.csv
+Original Data: 
+Cleaned Data: 
 
 **Presentation**
-https://www.canva.com/design/DAD5FkbTvBA/EENajulaT4BcXTQAhPN3rQ/view?utm_content=DAD5FkbTvBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
+https://www.canva.com/design/DAD7cf_pXsc/Ldc6EKvxKc24pvs-FY2_WQ/view?utm_content=DAD7cf_pXsc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 # Resources
 
@@ -73,9 +72,10 @@ https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
   
  
  # Human Resources 
+ My Last Data Bender Cohort 02/17/20 classmates 
+ 
+ Lindsey Berlin DS 02/17/20 Instructor
   
- Lindsey Berlin DS 02-17-2020 Coach
-  
- Bryan Arnold DS 02-17-2020 Lead Instructor
+ Bryan Arnold DS 002/17/20 Instructor
   
   
