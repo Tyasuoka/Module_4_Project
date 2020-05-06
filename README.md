@@ -10,17 +10,15 @@
 
 
 **The Problem:**
-
-  * Certain behavioral patterns are hard to enforce
-  * Not all people believe in the same thing
-  * Not all people are capable of following the recommendations
+* Certain behavioral patterns are hard to enforce
+* Not all people believe in the same thing
+* Not all people are capable of following the recommendations
 
 
 **The Solution:**
-
-  * Create a model that approximates likely behaviors of those who got the vaccinations
-  * Promote those behaviors so everyone will be safe from future outbreaks
-  * Prepaer for the next pandemic
+* Create a model that approximates likely behaviors of those who got the vaccinations
+* Promote those behaviors so everyone will be safe from future outbreaks
+* Prepaer for the next pandemic
 
 
 **The Process**
@@ -38,8 +36,7 @@ The data was provided by the Driven data Competition under the title "Flu Shot L
 
 The main metric used was ROC_AUC scoring.
 
-***The Models Chosen:*** 
-
+***The Models Chosen:***
 * The baseline model - Random Forest
 * Other models used - Gradient Boosting, Logistic Regression
 
@@ -85,11 +82,8 @@ https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
   
  
  # Human Resources
- 
- * My Last Data Bender Cohort 02/17/20 classmates 
- 
- * Lindsey Berlin DS 02/17/20 Instructor
-  
- * Bryan Arnold DS 002/17/20 Instructor
+ * My Last Data Bender Cohort 02/17/20 classmates
+ * Lindsey Berlin DS 02/17/20 Instructor 
+ * Bryan Arnold DS 002/17/20 Instructor
   
   
