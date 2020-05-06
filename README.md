@@ -28,15 +28,15 @@ The plan of attack was to do the following:
 2. Model the data
 3. Find the feature importances to list out to see which factors were the biggest contributors
 
-***The Data:*** 
+**The Data:** 
 
 The data was provided by the Driven data Competition under the title "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines".
 
-***The Metrics:*** 
+**The Metrics:** 
 
 The main metric used was ROC_AUC scoring.
 
-***The Models Chosen:***
+**The Models Chosen:**
 * The baseline model - Random Forest
 * Other models used - Gradient Boosting, Logistic Regression
 
