@@ -38,10 +38,10 @@ The main metric used was ROC_AUC scoring.
 
 **The Models Chosen:**
 * The baseline model - Random Forest
-* Other models used - Gradient Boosting, Logistic Regression
+* Other models used - Gradient Boosting
 
 # Conclusion
-* The biggest feature importances were the opinions of the individual if the vaccine was effective or not. Some of the other high impacting features were if the individual had health insurance or not and if they had any good behaviors prior to the spread of the virus like washing their hands.
+* The biggest feature importances were the opinions of the individual if the vaccine was effective or not. Some of the other high impacting features were if the individual had health insurance or not and if they had any good behaviors prior to the spread of the virus like washing their hands. The model was able to predict with a ROC_AUC score of 0.85 for the 
 
 # Future Recommendations
 1. Gather more data to further analyze behavioral patterns
@@ -70,7 +70,6 @@ https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 **Models: Below you will find model documentation**
 
 *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-*Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
 *Gradient Boost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html  
  
 # Human Resources
